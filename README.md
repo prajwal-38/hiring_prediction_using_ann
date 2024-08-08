@@ -1,1 +1,1 @@
-Hiring Prediction Using Convolutional Neural Networks
+Hiring Prediction Using Artificial Neural Networks
